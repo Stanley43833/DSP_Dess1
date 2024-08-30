@@ -5,14 +5,14 @@ const productos = [
         nombre: "Camiseta Blanca",
         precio: 150.00,
         cantidadDisponible: 10,
-        imagen: "https://raw.githubusercontent.com/Stanley43833/DPS-DESAFIO-1/rama/imag/1.webp"
+        imagen: "https://raw.githubusercontent.com/Stanley43833/DPS_Dess/rama/IMG/imag1.gpj"
     },
     {
         id: 2,
         nombre: "Zapatos Deportivos",
         precio: 19.99,
         cantidadDisponible: 5,
-        imagen: "https://raw.githubusercontent.com/tu-usuario/tu-repositorio/rama/imagenes/producto8.jpg"
+        imagen: "https://raw.githubusercontent.com/Stanley43833/DPS_Dess/rama/IMG/imag2.jpg"
     },
     {
         id: 3,
